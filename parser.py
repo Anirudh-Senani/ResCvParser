@@ -23,8 +23,11 @@ from user_detail import User
 import sys
 #from uszipcode import ZipcodeSearchEngine
 import nltk
-nltk.download('punkt')
-nltk.download('averaged_perceptron_tagger')
+try:
+    nltk.download('punkt')
+    nltk.download('averaged_perceptron_tagger')
+except:
+    pass
 from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
 import argparse
