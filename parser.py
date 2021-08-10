@@ -26,6 +26,7 @@ import nltk
 try:
     nltk.download('punkt')
     nltk.download('averaged_perceptron_tagger')
+    nltk.download('stopwords')
 except:
     pass
 from fuzzywuzzy import fuzz
