@@ -3,3 +3,4 @@ nltk
 bson
 datefinder
 fuzzywuzzy
+pyresparser
