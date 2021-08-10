@@ -31,6 +31,7 @@ except:
 from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
 import argparse
+from pyreparser import ResumeParser
 
 # reload(sys)
 # sys.setdefaultencoding('utf-8')
@@ -1288,3 +1289,6 @@ if __name__ == '__main__':
     user = extract_user_detail()
     extract_education_detail(user)
     extract_work_exp_detail(user)
+    data = (ResumeParser(file).get_extracted_data())
+    data['Projects'] = 0
+    print('***************************************************************************************************\n',data)
