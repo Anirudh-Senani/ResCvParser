@@ -31,7 +31,7 @@ except:
 from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
 import argparse
-from pyreparser import ResumeParser
+from pyresparser import ResumeParser
 
 # reload(sys)
 # sys.setdefaultencoding('utf-8')
