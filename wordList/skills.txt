@@ -1,0 +1,133 @@
+GO
+Java
+NoSql
+SQL
+Kotlin
+Android Studio
+Android SDK
+Material Design
+Python
+Node.js
+C#
+JavaScript
+xml
+Firebase
+SQLite
+RDBMS
+XCode
+R 
+Java
+Python
+C++
+Torch
+Theano
+Tensorflow
+Swift AI
+Scikit-Learn
+Pybrain
+Keras
+IBM Watson
+Deeplearning4j
+Linear Regression
+Logistic Regression
+Decision Trees
+Random Forests
+SVM
+K-Nearest Neighbors
+XGBoost
+Clustering
+Neural Networks
+Naive Bayes
+Apache Spark
+Hadoop
+SQL / NoSQL
+numpy
+pandas
+Pytorch
+OpenCV
+NLTK
+BERT
+LSTM  
+CNN
+caffe
+mxnet
+Matplotlib
+AWS lambda
+Matlab
+Java
+Python
+Ruby
+. Net
+C++ 
+Perl 
+PHP
+Postgres SQL
+MySQL
+MongoDB
+Oracle  
+Redis
+SQL Server
+Docker    
+Kubernetes
+Nginx
+Node.js
+Apache  
+Nginx
+IIS servers
+Microsoft IIS
+REST API 
+SOAP API
+Express.js
+Phoenix (Elixir)
+Django
+Ruby on Rails
+Laravel
+Flask
+ASP.NET Core
+Spring MVC
+CodeIgniter
+CakePHP
+Symfony
+Play Framework
+C#
+GitHub
+microservices
+Npm
+Yarn
+Graphql
+Mobx
+Redux
+ORM
+dynamodb
+CICD
+HTML/CSS
+HTML
+CSS
+JavaScript
+JavaScript
+jQuery
+Bootstrap
+Version Control/Git 
+ Sass
+LESS
+Stylus
+AngularJS
+ES6
+Angular
+React
+Vue.JS
+Meteor
+Node.JS
+Backbone.JS
+Aurelia
+Chrome DevTools
+Agile/Scrum
+UI/UX
+TypeScript
+ReactJS
+GitHub
+es7
+photoshop
+adobe illustrator
+wordpress
+jQuery
