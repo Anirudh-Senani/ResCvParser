@@ -1,0 +1,87 @@
+Key Accountabilities
+
+1. Design
+
+1-2 year of experience, application server side
+1 Year of application Front end side.
+*
+2. Coding
+
+1-2 year of experience, application server side
+1 Year of application Front end side.
+3. Testing
+
+1-2 year Test experience either in support role to application QA assistance.
+4. Deployment
+
+1-2 year Experience with deployment to production and automation around deployment
+5. Task management
+
+0-2 years Experience in leading others to complete their tasks while delivering their own projects.
+Job Requirements
+
+1. Must Have
+
+3 to 6 yrs of Combined Technical Experience on Development and Administration (Dev Ops).
+Strong knowledge of the agile framework and software engineering processes such as programming languages, methods, test development, support, algorithms, and data structures.
+Experience in working with a global team located in the US and INDIA with flexible hours.
+Experience with Front end ReactJS development
+Experience with Back end NodeJS development
+Experience with Scripting: At least one scripting language intermediary and up (example python, shell scripting).
+2. Good to Have
+
+experience with API integration, HTML, CSS, JavaScript, MySQL, ORACLE database
+object-oriented programming concepts, large-scale software architecture, networking and distributed systems, and UNIX/Linux environments.
+Ability to manage version controls using SVN/GIT and develop applications on Linux server with Node configuration, Apache Server with LAMP configuration
+Experience in developing, maintaining, and supporting computer programs requiring high-level programming language knowledge.
+Experience in adding new functionality to existing computer systems, design and develop new systems by creating architecture and creating system flow diagrams and flowcharts by using object-oriented programming languages, client and server applications development processes, and multimedia and internet technology
+Experience with at least one of the cloud platforms like AWS, Google Cloud, Azure. AWS preferred
+Experience with basics of CI/CD pipeline with Jenkins / Gorilla stack / AWS or alike
+Break down below:
+1-3 Years of Experience on Development.
+1-2 Years of Experience in Administration/ Development Operations (Installation and configuration and administration/support, feature addition) of enterprise grade software.
+Technical Background:
+
+OS Intermediate to Advanced in both Linux and Windows Servers;
+Node JS Server development.
+ReactJS Front end development
+At least one programing language intermediary and one advanced (example python, java script);
+At least one scripting language intermediary and up (example python, shell scripting).
+Configuration of secure environments like TLS/SSL configuration, LDAP Integration.
+At least one queuing technology experience (example Kafka, mqtt)
+Configuration of HTTPS services with CA certificates.
+Basic Networking knowledge
+At least two database technology in advanced level
+data modeling skills;
+XML or JSON knowledge and working experience
+SQL ANSI skills.
+*
+
+Job Types: Full-time, Regular / Permanent
+
+Pay: ₹500,000.00 - ₹1,000,000.00 per year
+
+Benefits:
+
+Flexible schedule
+Health insurance
+Paid sick time
+Paid time off
+Work from home
+Schedule:
+
+Monday to Friday
+Supplemental Pay:
+
+Joining bonus
+Education:
+
+Bachelor's (Preferred)
+Experience:
+
+Backend NodeJS Development: 2 years (Preferred)
+Front end ReactJS development: 2 years (Preferred)
+Python or Equivalent Scripting: 2 years (Preferred)
+Work Remotely:
+
+Yes
